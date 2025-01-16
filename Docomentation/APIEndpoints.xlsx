@@ -1,0 +1,4 @@
+Endpoint	Method	Purpose	Payload/Response Example
+/products	GET	Fetches all available products from Sanity.	{ "id": 1, "name": "Product A", "price": 100, "stock": 20, "image": "url" }
+/orders	POST	Create a new order in Sanity.	{ "customerInfo": "John Doe", "productDetails": ["Product A", "Product B"], "paymentStatus": "Paid" }
+/shipment	GET	Track order status via third-party API.	{ "shipmentId": 123, "orderId": 456, "status": "In Transit", "expectedDeliveryDate": "2025-01-18" }

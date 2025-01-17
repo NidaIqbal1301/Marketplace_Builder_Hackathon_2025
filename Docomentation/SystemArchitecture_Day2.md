@@ -99,20 +99,28 @@ export default {
   ]
 };
 ________________________________________
+
 6. Technical Roadmap
-1.	Define Requirements:
-o	Finalize product categories and features.
-o	Plan APIs and workflows.
-2.	Set Up Sanity CMS:
-o	Configure schemas for products and orders.
-3.	Develop Frontend:
-o	Implement pages for product listing, cart, and checkout.
-4.	Integrate APIs:
-o	Connect frontend with Sanity CMS and third-party APIs.
-5.	Testing:
-o	Conduct unit, integration, and end-to-end testing.
-6.	Deployment:
-o	Deploy the application to production.
+Define Requirements:
+
+Finalize product categories and features.
+Plan APIs and workflows.
+Set Up Sanity CMS:
+
+Configure schemas for products and orders.
+Develop Frontend:
+
+Implement pages for product listing, cart, and checkout.
+Integrate APIs:
+
+Connect frontend with Sanity CMS and third-party APIs.
+Testing:
+
+Conduct unit, integration, and end-to-end testing.
+Deployment:
+
+Deploy the application to production.
+
 ________________________________________
 
 

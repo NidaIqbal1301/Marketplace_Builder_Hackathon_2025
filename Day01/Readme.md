@@ -1,12 +1,10 @@
-# Avion Marketplace Journey
-
-### Watermark: Nida Iqbal
+# General E-Commerce Marketplace Journey
 
 ## DAY 1: LAYING THE FOUNDATION FOR MY MARKETPLACE JOURNEY
 
 ### Marketplace Name: Avion
 
-The name "Avion" for my e-commerce website could fit into multiple categories depending on my business model. Here's why:
+According to my previous hackathon template # 02 The name "Avion" for my e-commerce website could fit into multiple categories depending on my business model. Here's why:
 
 - **Q-Commerce (Quick Commerce)**: This refers to the rapid delivery of products, typically within a very short time frame (e.g., within an hour).
 - **E-Commerce (Electronic Commerce)**: Suitable if I plan to offer a broader selection of products with standard delivery times.
